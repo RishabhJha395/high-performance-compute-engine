@@ -1,0 +1,6 @@
+# Build artifacts
+matmul_engine
+*.o
+
+# OS generated files
+.DS_Store
